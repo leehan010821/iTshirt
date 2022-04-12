@@ -1,2 +1,2 @@
-1. GitHun 티셔츠 (Github T-shirts)
-2. 파이썬 티셔츠 (Python T-shirts)
+1. GitHun 티셔츠
+2. 파이썬 티셔츠
